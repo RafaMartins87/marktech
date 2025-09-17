@@ -14,7 +14,7 @@ export function HeroSection() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-4xl lg:text-6xl leading-tight">
-                Revolucionando a edução com
+                Revolucionando a educação com
                 <span className="text-blue-600 block">tecnologia inteligente</span>
               </h1>
               <p className="text-xl text-muted-foreground max-w-lg">

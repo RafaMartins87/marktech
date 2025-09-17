@@ -5,7 +5,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/marktech/',
+  base: '/build/marktech/',
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
